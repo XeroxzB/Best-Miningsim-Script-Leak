@@ -1,4 +1,5 @@
-getgenv().Name = "Thx for buying😘😘"--Name above head
+--bitches be crazy
+getgenv().Name = "AdolfHitler333😘😘"
 
 task.wait(2)
 
